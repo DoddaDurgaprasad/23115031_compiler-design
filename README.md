@@ -1,4 +1,3 @@
-# 23115031_compiler-design
 
 # Sum of Cubes Compiler
 
@@ -35,10 +34,10 @@ result = t1 + t2
 
 ## ▶️ How to Run
 🧰 1. Installing MSYS2 (if not done already):
-```
-If you haven't installed it:
+MSYS2 is a software distribution and build platform for Windows that provides a Unix-like environment, a command-line interface.
+```If you haven't installed it:
 
-Download from: https://www.msys2.org
+Download from:https: [msys2](https://www.msys2.org)
 ```
 
 Follow the installation guide on the website.
@@ -89,5 +88,5 @@ Result: 35
 See `Screenshot 2025-04-06 190658.png` in the project folder.
 
 ## 🔗 GitHub link
-Gi
+[GitHub Repository](https://github.com/DoddaDurgaprasad/23115031_compiler-design)
 
