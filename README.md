@@ -51,7 +51,7 @@ pacman -Syu
 pacman -S make gcc flex bison
 ```
 📝 4. Compiling and Running a C++ Program
-Assume you have a file main.cpp. From the terminal:
+Assume you have a sum_of_cubes_compiler_final is the folder name From the terminal:
 ```bash
 g++ main.cpp lexer.cpp parser.cpp semantic.cpp ir.cpp codegen.cpp -o sum_of_cubes_compiler_final
 ```
